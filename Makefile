@@ -1,4 +1,4 @@
-KEYLAYOUT = King\ Kong.Shavian.keylayout
+KEYLAYOUT = King\ Shaw.keylayout
 TARGETDIR = ~/Library/Keyboard\ Layouts
 
 replace:

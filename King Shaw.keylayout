@@ -1,8 +1,8 @@
 <?XML version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2015-05-02 at 03:34 (PDT)-->
-<!--Last edited by Ukelele version 2.2.8 on 2015-05-02 at 03:38 (PDT)-->
-<keyboard group="126" id="-2009" name="New Keyboard" maxout="1">
+<!--Last edited by Ukelele version 2.2.8 on 2015-05-02 at 04:14 (PDT)-->
+<keyboard group="126" id="-2009" name="King Shaw" maxout="2">
     <layouts>
         <layout first="0" last="17" modifiers="Modifiers" mapSet="ANSI"/>
         <layout first="18" last="18" modifiers="Modifiers" mapSet="JIS"/>
@@ -34,9 +34,55 @@
     </modifierMap>
     <keyMapSet id="ANSI">
         <keyMap index="0">
-            <key code="0" output=""/>
+            <key code="0" output="&#x1045B;"/>
+            <key code="1" output="&#x10455;"/>
+            <key code="2" output="&#x1046E;"/>
+            <key code="3" output="&#x10466;"/>
+            <key code="4" output="&#x10467;"/>
+            <key code="5" output="&#x1046A;"/>
+            <key code="6" output="&#x10460;"/>
+            <key code="7" output="&#x10473;"/>
+            <key code="8" output="&#x10454;"/>
+            <key code="9" output="&#x1046B;"/>
+            <key code="11" output="&#x10475;"/>
+            <key code="12" output="&#x10452;"/>
+            <key code="13" output="&#x10462;"/>
+            <key code="14" output="&#x1045E;"/>
+            <key code="15" output="&#x10474;"/>
+            <key code="16" output="&#x10472;"/>
+            <key code="17" output="&#x10477;"/>
+            <key code="18" output="&#x1045C;"/>
+            <key code="19" output="&#x10459;"/>
+            <key code="20" output="&#x10463;"/>
+            <key code="21" output="&#x10453;"/>
+            <key code="22" output="&#x10476;"/>
+            <key code="23" output="&#x1046D;"/>
+            <key code="24" output="&#x10461;"/>
+            <key code="25" output="&#x1045A;"/>
+            <key code="26" output="&#x1046C;"/>
+            <key code="27" output="&#x10457;"/>
+            <key code="28" output="&#x10458;"/>
+            <key code="29" output="&#x10456;"/>
+            <key code="30" output=";"/>
+            <key code="31" output="&#x1045F;"/>
+            <key code="32" output="&#x10471;"/>
+            <key code="33" output="&#x10450;"/>
+            <key code="34" output="&#x10468;"/>
+            <key code="35" output="&#x1045D;"/>
             <key code="36" output="&#x000D;"/>
+            <key code="37" output="&#x10451;"/>
+            <key code="38" output="&#x10469;"/>
+            <key code="39" output="&#x0027;"/>
+            <key code="40" output="&#x1046F;"/>
+            <key code="41" output="&#x10464;"/>
+            <key code="42" output="\"/>
+            <key code="43" output=","/>
+            <key code="44" output="/"/>
+            <key code="45" output="&#x10470;"/>
+            <key code="46" output="&#x10465;"/>
+            <key code="47" output="."/>
             <key code="48" output="&#x0009;"/>
+            <key code="50" output="`"/>
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
             <key code="64" output="&#x0010;"/>
@@ -76,9 +122,52 @@
             <key code="126" output="&#x001E;"/>
         </keyMap>
         <keyMap index="1">
-            <key code="0" output=""/>
+            <key code="0" output="‘"/>
+            <key code="1" output="’"/>
+            <key code="2" output="“"/>
+            <key code="3" output="”"/>
+            <key code="4" output="·"/>
+            <key code="5" output="—"/>
+            <key code="6" output="!"/>
+            <key code="7" output="@"/>
+            <key code="8" output="#"/>
+            <key code="9" output="$"/>
+            <key code="11" output="%"/>
+            <key code="12" output="("/>
+            <key code="13" output=")"/>
+            <key code="16" output="*"/>
+            <key code="17" output="–"/>
+            <key code="18" output="["/>
+            <key code="19" output="]"/>
+            <key code="20" output="{"/>
+            <key code="21" output="}"/>
+            <key code="22" output="/"/>
+            <key code="23" output="_"/>
+            <key code="24" output="="/>
+            <key code="25" output="9"/>
+            <key code="26" output="7"/>
+            <key code="27" output="-"/>
+            <key code="28" output="8"/>
+            <key code="29" output="0"/>
+            <key code="30" output=":"/>
+            <key code="31" output="6"/>
+            <key code="32" output="4"/>
+            <key code="34" output="5"/>
+            <key code="35" output="+"/>
             <key code="36" output="&#x000D;"/>
+            <key code="37" output="3"/>
+            <key code="38" output="1"/>
+            <key code="39" output="&#x0022;"/>
+            <key code="40" output="2"/>
+            <key code="41" output="…"/>
+            <key code="42" output="|"/>
+            <key code="43" output="&#x003C;"/>
+            <key code="44" output="?"/>
+            <key code="45" output="^"/>
+            <key code="46" output="&#x0026;"/>
+            <key code="47" output="&#x003E;"/>
             <key code="48" output="&#x0009;"/>
+            <key code="50" output="~"/>
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
             <key code="64" output="&#x0010;"/>
@@ -119,7 +208,17 @@
         </keyMap>
         <keyMap index="2">
             <key code="0" output=""/>
+            <key code="3" output="&#x1047D;"/>
+            <key code="4" output="&#x1047B;"/>
+            <key code="8" output="£"/>
+            <key code="9" output="¢"/>
+            <key code="17" output="&#x10479;"/>
+            <key code="23" output="&#x10478;"/>
+            <key code="28" output="&#x1047F;"/>
+            <key code="32" output="&#x1047A;"/>
             <key code="36" output="&#x000D;"/>
+            <key code="38" output="&#x1047C;"/>
+            <key code="45" output="&#x1047E;"/>
             <key code="48" output="&#x0009;"/>
             <key code="51" output="&#x0008;"/>
             <key code="53" output="&#x001B;"/>
